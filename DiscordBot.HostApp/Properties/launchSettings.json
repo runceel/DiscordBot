@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DiscordBot.HostApp": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
